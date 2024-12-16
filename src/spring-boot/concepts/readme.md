@@ -1,4 +1,4 @@
-### Main Aim of Spring Boot
+## Main Aim of Spring Boot
 
 Spring Boot simplifies Java application development by providing:
 1. **Convention over Configuration:** Minimizes boilerplate code and configuration by offering sensible defaults.
@@ -11,7 +11,7 @@ Spring Boot’s primary aim is to streamline application development, ensuring d
 
 ---
 
-### Most Important Concepts of Spring Boot
+## Most Important Concepts of Spring Boot
 
 Here are the fundamental concepts of Spring Boot:
 
